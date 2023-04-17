@@ -8,6 +8,14 @@ import turtle
 import tkinter
 from tkinter import *
 import math
+from tqdm import tqdm
+from tqdm import tqdm_gui
+import requests
+
+ztrolibins = 'https://github.com/Ztrolix/ZtrolixLib.git'
+ztrolibinsr = requests.get(ztrolibins, allow_redirects=True)
+
+
 
 print(r"""  ______   ___    _____ 
  |  ____| |__ \  | ____|
@@ -27,7 +35,20 @@ while True :
       print("bazt [ Version 1.0.0 ]")
     else :
       if "bazt install " in a :
-        print("ERROR: Could not find a version that satisfies the requirement " + str(a) + " (from versions: none)")
+        if (a == "bazt install ztrolib") :
+          print("Found Ztrolib.")
+          print("Downloading...")
+          for i in tqdm(range(random.randint(10, 100))):
+           ...
+           sleep(random.randint(0, 2))
+          print("Installing...")
+          open('facebook.ico', 'wb').write(ztrolibinsr.content)
+          for i in tqdm(range(random.randint(10, 100))):
+           ...
+           sleep(random.randint(0, 2))
+          print("Successfully installed!")
+        else :
+          print("ERROR: Could not find a version that satisfies the requirement '" + str(a) + "' (from versions: none)")
       else:
         print(r"""Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
