@@ -17,6 +17,8 @@ E25 is a programming language that has supported features for AI. This language 
 > Currently Not Avaliable.
 #### [GitHub Releases](https://github.com/Ztrolix/E25/releases/)
     https://github.com/Ztrolix/E25/releases/
+#### [Beta Site](https://sites.google.com/view/ztrolix-beta/apps/e25)
+    https://sites.google.com/view/ztrolix-beta/apps/e25
 
 ### Images
 There is no Images currently avaliable.
