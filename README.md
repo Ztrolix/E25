@@ -11,8 +11,10 @@ E25 is a programming language that has supported features for AI. This language 
 
 #### [Official Website](https://sites.google.com/view/ztrolix/e25)
     https://sites.google.com/view/ztrolix/E25
+> Currently Not Avaliable.
 #### [Itch.io](https://nova-t.itch.io/e25)
     https://nova-t.itch.io/E25
+> Currently Not Avaliable.
 #### [GitHub Releases](https://github.com/Ztrolix/E25/releases/)
     https://github.com/Ztrolix/E25/releases/
 
