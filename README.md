@@ -21,5 +21,11 @@ E25 is a programming language that has supported features for AI. This language 
     https://sites.google.com/view/ztrolix-beta/apps/e25
 
 ### Images
-There is no Images currently avaliable.
 
+<p align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ztrolix/E25/raw/main/photo1.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ztrolix/E25/raw/main/photo1.png">
+    <img alt="Ztrolix GitHub Logo" src="https://github.com/Ztrolix/E25/raw/main/photo1.png">
+  </picture>
+</p>
