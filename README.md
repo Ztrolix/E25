@@ -7,6 +7,15 @@
 ### About
 E25 is a programming language that has supported features for AI. This language is also trying to make code simple but challenging! We have made this language for the begginers of code development, because everyone has to start off small so, use us and we are completely free to use. The current release date is the 20th of April AEST if you are in the Americas or parts of Europe it will be 19th of April because of the time zones.
 
+### Commands
+
+#### Bazt Installs - 1.0.0a2
+    bazt install ...
+#### Bazt - 1.0.0a1
+    bazt ...
+#### test.epy - 1.0.0a3
+    test.epy
+
 ### Releases
 
 #### [Official Website](https://sites.google.com/view/ztrolix/e25)
