@@ -15,6 +15,8 @@ E25 is a programming language that has supported features for AI. This language 
     bazt ...
 #### test.epy - 1.0.0a3
     test.epy
+#### run - 1.0.0a3
+    run
 
 ### Releases
 
