@@ -19,6 +19,7 @@ We are sorry but we have had to push back the release date a bit further to **Ap
 - print
 - test.e25
 - run
+- grapy
 
 ### Releases
 
