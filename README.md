@@ -9,7 +9,7 @@ E25 is a programming language that has supported features for AI. This language 
 
 ### Release Date
 
-We are sorry but we have had to push back the release date a bit further to **April 23 5:00 PM AEST** or **April 22 3:00 AM ET**. Due to issues with Python. We are sorry for the wait.
+We are sorry but we have had to push back the release date a bit further to **April 25 5:00 PM AEST** or **April 24 3:00 AM ET**. Due to issues with Python. We are sorry for the wait.
 
 ### Commands
 
