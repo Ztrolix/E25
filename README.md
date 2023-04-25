@@ -2,10 +2,6 @@
   <h2 align="center">⚠️ Auto Update Disabled ⚠️</h2>
 </p>
 <p align="center">
-  <h2 align="center">⚠️ Servers Disabled ⚠️</h2>
-  <p align="center">You will still be able to use this program but on offline mode.</p>
-</p>
-<p align="center">
   <h2 align="center">⚠️ Version Checker Disabled ⚠️</h2>
 </p>
 
