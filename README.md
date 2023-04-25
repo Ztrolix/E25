@@ -1,12 +1,4 @@
 <p align="center">
-  <h2 align="center">⚠️ Auto Update Disabled ⚠️</h2>
-</p>
-<p align="center">
-  <h2 align="center">⚠️ Version Checker Disabled ⚠️</h2>
-</p>
-
-
-<p align="center">
   <h1 align="center">E25</h1>
 </p>
 
