@@ -5,7 +5,7 @@
 ## Welcome to E25!
 
 ### About
-E25 is a programming language that has supported features for AI. This language is also trying to make code simple but challenging! We have made this language for the begginers of code development, because everyone has to start off small so, use us and we are completely free to use.
+E25 has officially been released for the full 1.0.0 release!
 
 ### Release Date
 
