@@ -13,18 +13,25 @@ E25 has officially been released for the full 1.0.0 release!
 
 ### Commands
 
-- bazt install
 - bazt
-- help
-- print
-- test.e25
+- bazt install ...
+- bazt install ztrolib
 - run
+- print
+- help
 - grapy run
-- grapy sprite
 - grapy text
 - grapy title
 - grapy res
 - e25 update latest
+- e25 reboot
+- e25 quit
+- e25
+- e25 ... help
+- e25 ... quit
+- e25 ... reboot
+- e25 ... github
+- e25 ... close
 
 ### Releases
 
