@@ -5,11 +5,11 @@
 ## Welcome to E25!
 
 ### About
-E25 has officially been released for the full 1.0.0 release!
+E25 is a programming language made for beginners to python. This language is also made for AI and has alot of new fetures coming for AI. This language is also trying to make code simple but challenging at the same time.
+
 
 ### Release Date
-
-We are sorry but we have had to push back the release date a bit further to **April 25 5:00 PM AEST** or **April 24 3:00 AM ET**. Due to issues with Python. We are sorry for the wait.
+E25 has officially been released for the full 1.0.0 release!
 
 ### Commands
 
